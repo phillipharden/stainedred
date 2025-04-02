@@ -1,0 +1,8 @@
+.social-media-link{
+    color:#DD0808 !important;
+    font-size: 30px;
+}
+
+.social-media-link:hover{
+    opacity: 0.7;
+}
